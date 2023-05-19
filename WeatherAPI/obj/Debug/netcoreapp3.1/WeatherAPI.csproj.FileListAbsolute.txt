@@ -1,0 +1,16 @@
+C:\Users\grant\Desktop\repos\openweathermapAPI\WeatherAPI\WeatherAPI\bin\Debug\netcoreapp3.1\WeatherAPI.exe
+C:\Users\grant\Desktop\repos\openweathermapAPI\WeatherAPI\WeatherAPI\bin\Debug\netcoreapp3.1\WeatherAPI.deps.json
+C:\Users\grant\Desktop\repos\openweathermapAPI\WeatherAPI\WeatherAPI\bin\Debug\netcoreapp3.1\WeatherAPI.runtimeconfig.json
+C:\Users\grant\Desktop\repos\openweathermapAPI\WeatherAPI\WeatherAPI\bin\Debug\netcoreapp3.1\WeatherAPI.runtimeconfig.dev.json
+C:\Users\grant\Desktop\repos\openweathermapAPI\WeatherAPI\WeatherAPI\bin\Debug\netcoreapp3.1\WeatherAPI.dll
+C:\Users\grant\Desktop\repos\openweathermapAPI\WeatherAPI\WeatherAPI\bin\Debug\netcoreapp3.1\WeatherAPI.pdb
+C:\Users\grant\Desktop\repos\openweathermapAPI\WeatherAPI\WeatherAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\grant\Desktop\repos\openweathermapAPI\WeatherAPI\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.csproj.AssemblyReference.cache
+C:\Users\grant\Desktop\repos\openweathermapAPI\WeatherAPI\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grant\Desktop\repos\openweathermapAPI\WeatherAPI\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.AssemblyInfoInputs.cache
+C:\Users\grant\Desktop\repos\openweathermapAPI\WeatherAPI\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.AssemblyInfo.cs
+C:\Users\grant\Desktop\repos\openweathermapAPI\WeatherAPI\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\grant\Desktop\repos\openweathermapAPI\WeatherAPI\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.csproj.CopyComplete
+C:\Users\grant\Desktop\repos\openweathermapAPI\WeatherAPI\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.dll
+C:\Users\grant\Desktop\repos\openweathermapAPI\WeatherAPI\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.pdb
+C:\Users\grant\Desktop\repos\openweathermapAPI\WeatherAPI\WeatherAPI\obj\Debug\netcoreapp3.1\WeatherAPI.genruntimeconfig.cache
